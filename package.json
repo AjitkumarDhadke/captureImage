@@ -15,7 +15,7 @@
 				"axios": "^0.19.2",
 				"babel-upgrade": "^1.0.1",
 				"base64-stream": "^1.0.0",
-				"bcrypt": "^3.0.8",
+				"bcrypt": "^5.0.0",
 				"bcrypt-nodejs": "0.0.3",
 				"bootstrap": "^4.5.0",
 				"chart.js": "^2.9.3",
