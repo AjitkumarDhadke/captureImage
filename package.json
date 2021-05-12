@@ -38,7 +38,7 @@
 				"natives": "^1.1.6",
 				"node-cron": "^1.2.1",
 				"node-excel-export": "^1.4.4",
-				"nodemailer": "^4.6.8",
+				"nodemailer": "^6.4.16",
 				"passport": "^0.4.0",
 				"passport-ldapauth": "^2.0.0",
 				"passport-local": "^1.0.0",
